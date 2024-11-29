@@ -7,19 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## About PROJECT
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Proyek ini bertujuan untuk mengembangkan aplikasi sederhana berbasis web dengan fitur utama berupa pengelolaan produk dan laporan stok. Aplikasi ini akan dikelola menggunakan GitHub untuk version control, GitHub Actions sebagai CI/CD pipeline untuk otomatisasi, serta Docker untuk containerization. Aplikasi akan di-deploy pada VPS berbasis Ubuntu, sehingga dapat diakses oleh pengguna melalui internet. Hasil akhir dari proyek ini adalah aplikasi fungsional yang siap dipresentasikan dan diakses publik.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Project Scope : Cakupan ini membatasi proyek pada fitur dasar pengelolaan produk dan laporan stok saja, tanpa menambahkan fitur tambahan yang kompleks.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Learning Laravel
 
